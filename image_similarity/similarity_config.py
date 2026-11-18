@@ -15,3 +15,5 @@ EPOCHS = 50
 ENCODER_PATH = PACKAGE_DIR / "deep_encoder.pt"
 DECODER_PATH = PACKAGE_DIR / "deep_decoder.pt"
 EMBEDDING_PATH = PACKAGE_DIR / "data_embedding_f.npy"
+
+IMAGE_NAMES_PATH = PACKAGE_DIR / "embedding_image_names.txt"
