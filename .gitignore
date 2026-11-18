@@ -7,3 +7,5 @@ __pycache__/
 /common/dataset/
 *.pt
 /common/fashion-labels.csv
+*.npy
+*.txt
